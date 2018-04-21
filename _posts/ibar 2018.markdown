@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2018-03-19
+img: ../img/ibar.jpeg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development, Education
+description: <a href="http://ibar.so">Ibar</a>  is an online web application that helps students connect to tutors in their city. 
+
+---
