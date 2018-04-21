@@ -3,9 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-.center-cropped{
-    object-fit: cover;
-}
+
 
 body {
     overflow-x: hidden;
@@ -149,6 +147,10 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+}
+
+.center-cropped{
+    object-fit: cover;
 }
 
 .navbar {
