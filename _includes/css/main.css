@@ -4,9 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- .center-cropped{
-     object-fit: cover;
- }
+
 body {
     overflow-x: hidden;
 }
